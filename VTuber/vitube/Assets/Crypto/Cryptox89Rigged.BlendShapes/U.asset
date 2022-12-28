@@ -19,6 +19,6 @@ MonoBehaviour:
   MaterialValues:
   - MaterialName: Eye_Mouth
     ValueName: _MainTex_ST
-    TargetValue: {x: 1, y: 1, z: 0.8, w: 0}
+    TargetValue: {x: 1, y: 1, z: 0.6, w: 0}
     BaseValue: {x: 1, y: 1, z: 0, w: 0}
   IsBinary: 1

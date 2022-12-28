@@ -19,5 +19,9 @@ MonoBehaviour:
   - RelativePath: Body
     Index: 12
     Weight: 100
-  MaterialValues: []
-  IsBinary: 0
+  MaterialValues:
+  - MaterialName: Eye_Mouth
+    ValueName: _MainTex_ST
+    TargetValue: {x: 1, y: 1, z: 0, w: -0.267}
+    BaseValue: {x: 1, y: 1, z: 0, w: 0}
+  IsBinary: 1

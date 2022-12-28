@@ -14,11 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_prefab: {fileID: 0}
   BlendShapeName: WTF
-  Preset: 0
-  Values: []
+  Preset: 11
+  Values:
+  - RelativePath: Body
+    Index: 1
+    Weight: 100
   MaterialValues:
   - MaterialName: Eye_Mouth
     ValueName: _MainTex_ST
-    TargetValue: {x: 1, y: 1, z: 0, w: 0.6}
+    TargetValue: {x: 1, y: 1, z: 0, w: -0.105}
     BaseValue: {x: 1, y: 1, z: 0, w: 0}
   IsBinary: 1
